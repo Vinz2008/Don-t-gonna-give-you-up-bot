@@ -1,5 +1,8 @@
 # Don-t-gonna-give-you-up-bot
 It is discord bot that say all the lyrics of don't gonna give you up of Rick Astley  
+- [Warning](https://github.com/Vinz2008/Don-t-gonna-give-you-up-bot#Installation)
+- [Installation](https://github.com/Vinz2008/Don-t-gonna-give-you-up-bot#Installation)
+- [Video](https://github.com/Vinz2008/Don-t-gonna-give-you-up-bot#Installation)
 
 ## Warning 
 I have tested this program only in Linux.
