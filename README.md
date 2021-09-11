@@ -9,7 +9,7 @@ Add the bot to your server (it is explained in the beginning of this article : h
 ```
 git clone https://github.com/Vinz2008/Don-t-gonna-give-you-up-bot.git
 ```
-Create a ```.env``` file in the same folder than the python code where you will put : 
+Create a `.env` file in the same folder than the python code where you will put : 
 ```
 DISCORD_TOKEN=your_token
 DISCORD_GUILD=name_of_your_server
