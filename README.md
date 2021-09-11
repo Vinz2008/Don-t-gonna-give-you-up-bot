@@ -14,9 +14,9 @@ Create a ```.env``` file in the same folder than the python code where you will 
 DISCORD_TOKEN=your_token
 DISCORD_GUILD=name_of_your_server
 ```
-Launch the Python code.
-The code need to be launched all the time to work well.
-For the bot to start saying the lyrics, send in the discord server ```!dggyu```
+Launch the Python code.  
+The code need to be launched all the time to work well.  
+For the bot to start saying the lyrics, send in the discord server ```!dggyu```  
 
 
 ![2021-09-08-17-10-53](https://user-images.githubusercontent.com/68145293/132546807-8536d2d6-3600-4df3-91b8-7243678f65b3.gif)
