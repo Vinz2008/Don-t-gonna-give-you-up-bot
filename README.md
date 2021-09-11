@@ -5,10 +5,9 @@ It is discord bot that say all the lyrics of don't gonna give you up of Rick Ast
 I have tested this program only in Linux.
 
 ## Installation
-Add the bot to your server (it is explained in the beginning of this article : https://www.howtogeek.com/364225/how-to-make-your-own-discord-bot/)
-Clone the repository  
+Add the bot to your server (it is explained in the beginning of this article : https://www.howtogeek.com/364225/how-to-make-your-own-discord-bot/)  
 ```
-git clone https://github.com/Vinz2008/Don-t-gonna-give-you-up-bot.git 
+git clone https://github.com/Vinz2008/Don-t-gonna-give-you-up-bot.git
 ```
 Create a ```.env``` file in the same folder than the python code where you will put : 
 ```
